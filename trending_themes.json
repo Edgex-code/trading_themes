@@ -1,12 +1,12 @@
 [
   {
     "id": "1",
-    "title": "China’s Stimulus Isn’t Reviving the Consumer Yet",
-    "content": "Despite aggressive stimulus measures, Chinese consumer spending remains subdued. Household savings are still elevated, and confidence is shaky, particularly among the middle class. While policy support may buoy industrial activity and infrastructure, it’s not translating into robust retail demand. This challenges the bull case for global consumer brands betting on a China rebound in H2 2025. Investors should watch credit growth and job market signals for real consumer traction. Until then, China's recovery remains a tale of two speeds—stronger state-led investment, weaker private consumption."
+    "title": "Markets Rally and Rally Into the New Year Amid Record Index Levels",
+    "content": "Global stock markets ended late December and opened 2026 with strong gains, with major U.S. indices like the Dow Jones and S&P 500 setting new record highs. Investors were active despite the holiday-shortened week, and both energy and defence sectors helped lift equities as optimism carried over into the first week of the year. The FTSE-100 in London also climbed to record levels near and above 10,000 points, reflecting broader risk appetite. Overall, markets navigated thin liquidity, year-end position adjustments, and early signals for 2026 with a rally-biased tone. :contentReference[oaicite:0]{index=0}"
   },
   {
-    "id": "2", 
-    "title": "Luxury Market Splits: Ultra-High-End Wins, Mid-Tier Stalls",
-    "content": "The luxury sector is diverging. Ultra-luxury brands like Hermès and Rolex are powering ahead, buoyed by resilient demand from the ultra-wealthy. Meanwhile, aspirational and mid-tier names face softness as their core customers pull back. This bifurcation signals a more selective consumer, where brand equity and exclusivity matter more than ever. Investors should recalibrate exposure: premiumization alone isn't a moat. The winners are those commanding cultural cachet and pricing power, not just scale."
+    "id": "2",
+    "title": "Geopolitical Shock in Venezuela Drives Energy, Bonds, Metals and Safe-Haven Trades",
+    "content": "A dominant theme was the U.S. military’s capture of Venezuelan President Nicolás Maduro, which rippled through global markets. Energy shares — particularly U.S. oil and oil-services stocks — surged on expectations of future Venezuelan oil sector participation, even though production remains limited. Venezuelan government bonds jumped sharply as investors repositioned around possible debt restructuring. Precious metals like gold and silver also climbed as geopolitical risk prompted safe-haven flows, while commodity and defence sectors saw strong performance. However, analysts noted that any meaningful increase in Venezuelan oil output will likely take years of investment and faces significant economic and political uncertainty. :contentReference[oaicite:1]{index=1}"
   },
 ]
