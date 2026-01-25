@@ -1,12 +1,13 @@
 [
   {
     "id": "1",
-    "title": "Markets Rally and Rally Into the New Year Amid Record Index Levels",
-    "content": "Global stock markets ended late December and opened 2026 with strong gains, with major U.S. indices like the Dow Jones and S&P 500 setting new record highs. Investors were active despite the holiday-shortened week, and both energy and defence sectors helped lift equities as optimism carried over into the first week of the year. The FTSE-100 in London also climbed to record levels near and above 10,000 points, reflecting broader risk appetite. Overall, markets navigated thin liquidity, year-end position adjustments, and early signals for 2026 with a rally-biased tone. :contentReference[oaicite:0]{index=0}"
+    "title": "Resilient Growth and Inflation Dynamics in a Mixed Macro Backdrop",
+    "content": "Across the period, macro data pointed to broader economic resilience despite slowing momentum in parts of the world. Inflation in many advanced economies remained stable or moderating (euro area near target, Japan still above BoJ goal, UK inflation expected to fall), encouraging supportive policy narratives. Growth forecasts for 2026 were modestly upward revised by agencies, reflecting solid consumption and labour markets in the US and strong emerging market performance. However, risks around slowing manufacturing and services in some regions persisted, and data irregularities from prior US reporting disruptions complicated interpretation. Mixed growth-inflation dynamics continued to shape equity, credit and commodity markets, reinforcing the theme that pricing power and yield curves will be sensitive to incoming data."
   },
   {
     "id": "2",
-    "title": "Geopolitical Shock in Venezuela Drives Energy, Bonds, Metals and Safe-Haven Trades",
-    "content": "A dominant theme was the U.S. military’s capture of Venezuelan President Nicolás Maduro, which rippled through global markets. Energy shares — particularly U.S. oil and oil-services stocks — surged on expectations of future Venezuelan oil sector participation, even though production remains limited. Venezuelan government bonds jumped sharply as investors repositioned around possible debt restructuring. Precious metals like gold and silver also climbed as geopolitical risk prompted safe-haven flows, while commodity and defence sectors saw strong performance. However, analysts noted that any meaningful increase in Venezuelan oil output will likely take years of investment and faces significant economic and political uncertainty. :contentReference[oaicite:1]{index=1}"
+    "title": "Geopolitical and Trade Policy Uncertainty Impacting Risk Sentiment",
+    "content": "Geopolitical tensions and trade policy developments have been a persistent theme through this window, amplifying volatility in risk assets. Threats of new US tariffs in response to diplomatic disputes triggered sharp equity market sell-offs in January and repricing of risk premiums across global indices. The market reaction underscored the sensitivity of equities and safe-haven assets (gold and FX) to political shocks. Meanwhile, broader geopolitical developments such as Venezuelan turmoil and trade tensions contributed to cautious positioning, influencing FX dynamics and risk spreads. Trade and political risk remain key to assessing short-term market sentiment and cross-border capital flows."
   },
 ]
+
