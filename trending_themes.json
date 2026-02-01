@@ -1,13 +1,13 @@
 [
-  {
+ {
     "id": "1",
-    "title": "Resilient Growth and Inflation Dynamics in a Mixed Macro Backdrop",
-    "content": "Across the period, macro data pointed to broader economic resilience despite slowing momentum in parts of the world. Inflation in many advanced economies remained stable or moderating (euro area near target, Japan still above BoJ goal, UK inflation expected to fall), encouraging supportive policy narratives. Growth forecasts for 2026 were modestly upward revised by agencies, reflecting solid consumption and labour markets in the US and strong emerging market performance. However, risks around slowing manufacturing and services in some regions persisted, and data irregularities from prior US reporting disruptions complicated interpretation. Mixed growth-inflation dynamics continued to shape equity, credit and commodity markets, reinforcing the theme that pricing power and yield curves will be sensitive to incoming data."
+    "title": "Fed Leadership Transition and Policy Divergence",
+    "content": "The defining narrative of January 2026 was the transition in Federal Reserve leadership following the nomination of Kevin Warsh to succeed Jerome Powell. This shift introduced significant policy uncertainty, causing the Fed to hold rates steady at its January meeting despite cooling inflation. While the Fed maintained a cautious stance to protect its credibility, other central banks began to diverge; the Bank of England signalled potential easing due to weakening hiring data, while the ECB remained in a 'good place' with inflation near target. This divergence supported a persistently weaker USD for much of the month, though the dollar saw a late-period rebound as markets repriced the 'Warsh' hawkishness. US Treasury yields remained sensitive to this transition, with the 10-year UST fluctuating around 4.25% as investors weighed the prospect of fewer rate cuts in the second half of 2026."
   },
-  {
+ {
     "id": "2",
-    "title": "Geopolitical and Trade Policy Uncertainty Impacting Risk Sentiment",
-    "content": "Geopolitical tensions and trade policy developments have been a persistent theme through this window, amplifying volatility in risk assets. Threats of new US tariffs in response to diplomatic disputes triggered sharp equity market sell-offs in January and repricing of risk premiums across global indices. The market reaction underscored the sensitivity of equities and safe-haven assets (gold and FX) to political shocks. Meanwhile, broader geopolitical developments such as Venezuelan turmoil and trade tensions contributed to cautious positioning, influencing FX dynamics and risk spreads. Trade and political risk remain key to assessing short-term market sentiment and cross-border capital flows."
+    "title": "Equity Rotation and AI Monetisation Anxiety",
+    "content": "Global equity markets exhibited a marked divergence in January as the initial AI-driven euphoria transitioned into a 'phase two' focused on monetisation. While the S&P 500 and Dow Jones posted monthly gains—the latter marking its ninth straight positive month—the tech-heavy Nasdaq ended January lower. This underperformance was driven by increased scrutiny of AI capital expenditure; investors began rotating out of software names like Palantir and Meta toward hardware and energy sectors that provide the physical infrastructure for AI. The 'politics of energy' emerged as a critical sub-theme, with nuclear and renewable energy stocks gaining traction as data centre power demands intensified. Despite record highs for indices like the FTSE 100, the month concluded with a cautious tone as concentration risk in mega-cap tech remained a primary concern for portfolio managers."
   },
 ]
 
