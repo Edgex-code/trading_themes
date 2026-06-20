@@ -1,13 +1,12 @@
 [
-{
+  {
     "id": "1",
-    "title": "Middle East Escalation and Energy Price Shock",
-    "content": "The most significant market driver in March 2026 was the dramatic military escalation involving the US, Israel, and Iran, which severely disrupted global energy supplies. A blockade of the Strait of Hormuz saw daily tanker traffic plunge from over 50 to fewer than 15, catapulting oil prices above the psychological $100/barrel threshold. This supply-side shock reversed years of steady disinflationary trends, with both the Fed and BoE warning that energy costs could add a full percentage point to headline CPI. Markets transitioned from pricing in aggressive rate cuts to a 'higher-for-longer' regime as insurance costs for maritime trade surged. The shock hit global growth projections, particularly in Europe, where the ECB revised its 2026 growth forecast down to 0.9%, reflecting the immediate impact of energy volatility on industrial output and consumer confidence."
+    "title": "Resurgent Inflation Forces Hawkish Global Central-Bank Repricing",
+    "content": "Across the four weeks inflation surprised persistently to the upside and policymakers pivoted hawkish, unwinding the prior easing narrative. Early in the window April CPI printed 3.8% YoY, above the 3.7% consensus, and long-dated USTs sold off sharply, with the 30-year briefly topping 5.19%, a near-19-year high, and the 10-year reaching roughly 4.69%. The Fed signalled no 2026 cut, pushing its first move into 2027, while the ECB delivered its first rate rise since 2023 and lifted its 2026 inflation projection to 3.0%; the BoC held with a hawkish tilt. A later US CPI at a three-year high reinforced the shift. The repricing entrenched a higher-for-longer regime across rates, firmed the USD and pressured rate-sensitive equities such as homebuilders, even as broad indices initially held near record highs."
   },
- {
+  {
     "id": "2",
-    "title": "Equities Enter Correction as AI Narrative Softens",
-    "content": "US equities faced their worst performance of the year, with the S&P 500 and Nasdaq both entering formal correction territory—defined as a 10% drop from recent peaks. The downturn was characterised by a sharp rotation out of AI-related software and growth stocks as investors questioned the immediate return on massive AI capital expenditures. Even stellar earnings from sector leaders like Nvidia were met with selling pressure, suggesting a 'peak hype' phase had concluded. The volatility was exacerbated by 'Trumpflation' fears and the proposed 15% global import surcharge, which threatened multinational margins. By late March, the Dow Jones had recorded five consecutive losing weeks, its longest such streak in four years, as the broader market shifted focus from speculative growth toward defensive 'value' sectors and hard assets."
-  },
+    "title": "Israel-Iran Conflict Drives Volatile Oil-Led Geopolitical Risk Premium",
+    "content": "Middle East tensions remained the dominant swing factor through the window, injecting a fluctuating risk premium into oil and broader risk assets. Early on, improving US-Iran negotiations allowed crude to retreat, dragging the wider commodity complex lower, around 3.6% over the month, and supporting equities as they pushed to fresh records. That calm reversed sharply in mid-June when Israel struck Iran, sending oil spiking, equities lower and safe-haven gold and USTs bid. By the close of the window, ceasefire signals and reports of a possible US-Iran agreement saw crude shed close to $10 from its peak, allowing equities to recover and broaden, with the Russell 2000 outperforming. The conflict was the principal source of cross-asset volatility, fed directly into the inflation narrative through energy prices, and kept FX, commodity and equity-index direction hostage to headlines."
+  }
 ]
-
